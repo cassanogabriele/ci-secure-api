@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 # CodeIgniter 4 Application Starter
 
+## Démarrage de l'application 
+php spark serve
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
